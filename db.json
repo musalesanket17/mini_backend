@@ -158,7 +158,10 @@
     "postId": 1
     }
     ],
-    "profile": {
+    "user":[ {
     "name": "typicode"
-    }
+    },
+    {
+        "name":"vikas"
+    }]
     }
